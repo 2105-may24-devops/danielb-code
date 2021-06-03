@@ -22,3 +22,4 @@ recommended:
         to do some operations or outputting without needing the user to type more
         - so it could be used in a automated script
 i'll be glad to help guide anybody's brainstorming on features or on implementation details.
+edit2
